@@ -10,6 +10,8 @@ You can reach me at [rafael@ortiz.sh](mailto:rafael@ortiz.sh).
 *  [Twitter](https://twitter.com/FridayOrtiz)
 *  [LinkedIn](https://linkedin.com/in/rafael-ortiz)
 *  [Mastodon](https://infosec.exchange/@Senicar)
+*  [Minix Cross Referencer](https://elixir.ortiz.sh/minix/latest/source)
+*  [Python Cross References](https://elixir.ortiz.sh/python/latest/source)
 
 <!--
 **Friday811/Friday811** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
