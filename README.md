@@ -12,6 +12,7 @@ You can reach me at [rafael@ortiz.sh](mailto:rafael@ortiz.sh).
 *  [Mastodon](https://infosec.exchange/@Senicar)
 *  [Minix Cross Referencer](https://elixir.ortiz.sh/minix/latest/source)
 *  [Python Cross Referencer](https://elixir.ortiz.sh/python/latest/source)
+*  [Yams as a service, because I'm losing my mind](https://yamemoji.services/10101)
 
 <!--
 **Friday811/Friday811** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
