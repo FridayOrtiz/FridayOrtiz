@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Rafael Ortiz and I work at Telefonica as a cybersecurity specialist and researcher.
+My name is Rafael Ortiz and I work at Red Canary in R&D.
 
 You can reach me at [rafael@ortiz.sh](mailto:rafael@ortiz.sh).
 
