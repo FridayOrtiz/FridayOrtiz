@@ -38,3 +38,6 @@ Here are some ideas to get you started:
 
 *  [How to Make API REST Requests to Tor Hidden Services in an Android APK](https://business.blogthinkbig.com/api-rest-requests-tor-hidden-services-android-apk/)
 *  [ChainLock, A Linux Tool for Locking Down Important Files](https://business.blogthinkbig.com/chainlock-linux-tool-locking-down-important-files/)
+
+![Rafael's GitHub stats](https://github-readme-stats.vercel.app/api?username=RafaelOrtizRC&count_private=true&show_icons=true&theme=outrun)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelOrtizRC&layout=compact&theme=outrun&langs_count=8&count_private=true)
