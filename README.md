@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 *  [CryptoClipWatcher](https://ccw.e-paths.com/), a Windows utility to defend against clipboard hijacking malware.
 *  [ChainLock](https://chainlock.e-paths.com/walkthrough.html?lan=en#walkthrough), a Linux tool to protect sensitive files.
-*  [oxidebpf](https://github.com/redcanaryco/oxidebpf)
+*  [oxidebpf](https://github.com/redcanaryco/oxidebpf), a Rust library for managing BPF programs.
 
 ##### Work Blog
 
