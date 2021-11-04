@@ -9,7 +9,6 @@ You can reach me at [rafael@ortiz.sh](mailto:rafael@ortiz.sh).
 *  [My Blog](https://ortiz.sh/)
 *  [Twitter](https://twitter.com/FridayOrtiz)
 *  [LinkedIn](https://linkedin.com/in/rafael-ortiz)
-*  [Mastodon](https://infosec.exchange/@Senicar)
 *  [Minix Cross Referencer](https://elixir.ortiz.sh/minix/latest/source)
 *  [Python Cross Referencer](https://elixir.ortiz.sh/python/latest/source)
 *  [Yams as a service, because I'm losing my mind](https://yamemoji.services/10101)
@@ -33,11 +32,13 @@ Here are some ideas to get you started:
 
 *  [CryptoClipWatcher](https://ccw.e-paths.com/), a Windows utility to defend against clipboard hijacking malware.
 *  [ChainLock](https://chainlock.e-paths.com/walkthrough.html?lan=en#walkthrough), a Linux tool to protect sensitive files.
+*  [oxidebpf](https://github.com/redcanaryco/oxidebpf)
 
 ##### Work Blog
 
 *  [How to Make API REST Requests to Tor Hidden Services in an Android APK](https://business.blogthinkbig.com/api-rest-requests-tor-hidden-services-android-apk/)
 *  [ChainLock, A Linux Tool for Locking Down Important Files](https://business.blogthinkbig.com/chainlock-linux-tool-locking-down-important-files/)
+*  [Introducing oxidebpf: an open source Linux tool for Rust and eBPF developers](https://redcanary.com/blog/oxidebpf/)
 
 ![Rafael's GitHub stats](https://github-readme-stats.vercel.app/api?username=RafaelOrtizRC&count_private=true&show_icons=true&theme=outrun)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelOrtizRC&layout=compact&theme=outrun&langs_count=8&count_private=true)
