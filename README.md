@@ -28,17 +28,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-##### Work Projects
+##### Public Work Projects
 
 *  [CryptoClipWatcher](https://ccw.e-paths.com/), a Windows utility to defend against clipboard hijacking malware.
 *  [ChainLock](https://chainlock.e-paths.com/walkthrough.html?lan=en#walkthrough), a Linux tool to protect sensitive files.
 *  [oxidebpf](https://github.com/redcanaryco/oxidebpf), a Rust library for managing BPF programs.
 
-##### Work Blog
+##### Other Stuff I've Written
 
 *  [How to Make API REST Requests to Tor Hidden Services in an Android APK](https://business.blogthinkbig.com/api-rest-requests-tor-hidden-services-android-apk/)
 *  [ChainLock, A Linux Tool for Locking Down Important Files](https://business.blogthinkbig.com/chainlock-linux-tool-locking-down-important-files/)
 *  [Introducing oxidebpf: an open source Linux tool for Rust and eBPF developers](https://redcanary.com/blog/oxidebpf/)
 
-![Rafael's GitHub stats](https://github-readme-stats.vercel.app/api?username=RafaelOrtizRC&count_private=true&show_icons=true&theme=outrun)
+<!--![Rafael's GitHub stats](https://github-readme-stats.vercel.app/api?username=RafaelOrtizRC&count_private=true&show_icons=true&theme=outrun)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelOrtizRC&layout=compact&theme=outrun&langs_count=8&count_private=true)
+-->
