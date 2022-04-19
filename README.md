@@ -9,9 +9,9 @@ You can reach me at [rafael@ortiz.sh](mailto:rafael@ortiz.sh).
 *  [My Blog](https://ortiz.sh/)
 *  [Twitter](https://twitter.com/FridayOrtiz)
 *  [LinkedIn](https://linkedin.com/in/rafael-ortiz)
-*  [Minix Cross Referencer](https://elixir.ortiz.sh/minix/latest/source)
+<!--*  [Minix Cross Referencer](https://elixir.ortiz.sh/minix/latest/source)
 *  [Python Cross Referencer](https://elixir.ortiz.sh/python/latest/source)
-*  [Yams as a service, because I'm losing my mind](https://yamemoji.services/10101)
+*  [Yams as a service, because I'm losing my mind](https://yamemoji.services/10101)-->
 
 <!--
 **Friday811/Friday811** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -33,6 +33,7 @@ Here are some ideas to get you started:
 *  [CryptoClipWatcher](https://ccw.e-paths.com/), a Windows utility to defend against clipboard hijacking malware.
 *  [ChainLock](https://chainlock.e-paths.com/walkthrough.html?lan=en#walkthrough), a Linux tool to protect sensitive files.
 *  [oxidebpf](https://github.com/redcanaryco/oxidebpf), a Rust library for managing BPF programs.
+*  [redcanary-ebpf-sensor](https://github.com/redcanaryco/redcanary-ebpf-sensor), a suite of eBPF programs for gathering security telemetry.
 
 ##### Other Stuff I've Written
 
@@ -40,6 +41,7 @@ Here are some ideas to get you started:
 *  [ChainLock, A Linux Tool for Locking Down Important Files](https://business.blogthinkbig.com/chainlock-linux-tool-locking-down-important-files/)
 *  [Introducing oxidebpf: an open source Linux tool for Rust and eBPF developers](https://redcanary.com/blog/oxidebpf/)
 *  [eBPF for Security: a Beginner's Guide](https://redcanary.com/blog/ebpf-for-security/)
+*  [every Boring Problem Found in eBPF](https://tmpout.sh/2/4.html)
 
 <!--![Rafael's GitHub stats](https://github-readme-stats.vercel.app/api?username=RafaelOrtizRC&count_private=true&show_icons=true&theme=outrun)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelOrtizRC&layout=compact&theme=outrun&langs_count=8&count_private=true)
