@@ -1,13 +1,13 @@
 ### Hi there 👋
 
-My name is Rafael Ortiz and I work at Red Canary in R&D.
+My name is Rafael Ortiz and I work at Sophos in R&D.
 
 You can reach me at [rafael@ortiz.sh](mailto:rafael@ortiz.sh).
 
 ##### Personal Stuff
 
 *  [My Blog](https://ortiz.sh/)
-*  [Twitter](https://twitter.com/FridayOrtiz)
+*  [Mastodon](https://infosec.exchange/@senicar)
 *  [LinkedIn](https://linkedin.com/in/rafael-ortiz)
 <!--*  [Minix Cross Referencer](https://elixir.ortiz.sh/minix/latest/source)
 *  [Python Cross Referencer](https://elixir.ortiz.sh/python/latest/source)
