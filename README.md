@@ -1,9 +1,12 @@
 ### Hi there 👋
 
-My name is Rafael Ortiz and I work at Sophos in R&D.
+My name is Friday and I work at Sophos in R&D.
 
-You can reach me at [rafael@ortiz.sh](mailto:rafael@ortiz.sh).
+You can reach me at [friday@ortiz.sh](mailto:friday@ortiz.sh).
 
+[My Blog](https://ortiz.sh/)
+
+<!--
 ##### Personal Stuff
 
 *  [My Blog](https://ortiz.sh/)
@@ -27,6 +30,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!--
 
 ##### Public Work Projects
 
